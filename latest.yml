@@ -1,0 +1,8 @@
+version: 4.5.2
+files:
+  - url: IMBC-mini-Setup-4.5.2.exe
+    sha512: QOnwRCFnu5kbn01BH6Nzs15Wp/2Kv6TKGtGexbI+7ERimtNRRpJy+nz2g6B6G3B/qB/BTTMfH3mdzATpbp/6Cg==
+    size: 65538700
+path: IMBC-mini-Setup-4.5.2.exe
+sha512: QOnwRCFnu5kbn01BH6Nzs15Wp/2Kv6TKGtGexbI+7ERimtNRRpJy+nz2g6B6G3B/qB/BTTMfH3mdzATpbp/6Cg==
+releaseDate: '2022-05-04T07:47:08.102Z'
